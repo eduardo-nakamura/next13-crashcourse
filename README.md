@@ -1,6 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Next13 Crash Course
 
-## Getting Started
+[Next.js 13 Crash Course | Learn How To Build Full Stack Apps!](https://www.youtube.com/watch?v=T63nY70eZF0) by Dev Ed
+
+Project Link: [https://next13-crashcourse.vercel.app/](https://next13-crashcourse.vercel.app/)
+
+A simple movie database that get the Top 10 Movies List, and show Title, description, image and release date when clicked on the movie.
+
+This project uses 
+- [Next.js 13](https://nextjs.org/blog/next-13)
+- [The Movie Database API](https://www.themoviedb.org/about)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/)
 
 First, run the development server:
 
@@ -13,8 +23,6 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
